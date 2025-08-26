@@ -11,7 +11,7 @@
 - 已对齐 GM/T 0018-2023 SDF标准
 
 ## 目标
-![Demo](docs/demo.gif)
+![Demo](docs/TestInfo.png)
 - 以动态方式加载厂商/软实现库 **libsoftsdf.so**，验证其对 GM/T 0018-2023 SDF 标准接口（及扩展验证接口）的符合性。
 - 提供最小可维护的测试组织：每个接口一个 `Test_xxx()`。
 - 作为后续开发/调试自测工具：新增或修正实现 ⇒ 立即运行全量用例查看回归。
@@ -93,3 +93,8 @@ make clean
 - GM/T 0018-2023 标准
 - OpenSSL / GmSSL 相关参考实现
 - 项目内部软 SDF 模块 `libsoftsdf.so`
+
+
+
+
+![Demo](docs/demo.gif)
