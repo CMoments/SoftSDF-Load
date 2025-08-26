@@ -17,8 +17,8 @@
 
 <p align="center">
   <a href="docs/TestInfo.png">
-    <img src="docs/TestInfo0.png" width="320" alt="Demo">
-	<img src="docs/TestInfo.png" width="320" alt="Demo">
+    <img src="docs/TestInfo0.png" width="480" alt="Demo">
+	<img src="docs/TestInfo.png" width="480" alt="Demo">
   </a>
 </p>
 
